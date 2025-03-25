@@ -4,7 +4,7 @@ import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
 import PlannerSection from '@/components/PlannerSection';
 import DestinationCard from '@/components/DestinationCard';
-import { setupScrollAnimations } from '@/utils/animations';
+import { setupScrollAnimations } from '/workspaces/travelsmartprj/src/utils/animation.ts';
 import { Shield, Clock, Sparkles, CloudSun } from 'lucide-react';
 
 const Index = () => {
